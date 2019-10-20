@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="error_has_ocurred">An error has occurred</string>
+    <string name="connection_error">A connection error has occurred</string>
+    <string name="avenger_photo">Avenger Photo</string>
+    <string name="detail_avenger">Avenger Detail</string>
+
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
